@@ -1,0 +1,1 @@
+my $var = undef;if (defined($var) && $var eq 'something') { print 'true';} elsif (defined($var) && $var ne 'something'){ print 'false';} else { print 'Undefined';}
