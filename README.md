@@ -1,0 +1,1 @@
+This repository contains a simple Perl script demonstrating a common error related to comparing undefined variables using the 'eq' operator.  The script will print 'false' without any warning, which might be unexpected. The solution shows how to correctly handle undefined values when doing comparisons.
